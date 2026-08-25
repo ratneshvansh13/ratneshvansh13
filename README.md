@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Location-Noida, Bangalore-ff9933?style=for-the-badge" alt="Location: India" />
 </p>
 
-<p>I am a passionate **DevOps & cloud Engineer** launched career into the devops and cloud . cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.Linux, AWS, Kubernetes, Docker, Git, to build reliable and scalable systems. I’m always eager to learn new technologies, solve real-world problems, and improve the way software is built and deployed. 
+<p>I am a passionate DevOps & cloud Engineer launched career into the devops and cloud . cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.Linux, AWS, Kubernetes, Docker, Git, to build reliable and scalable systems. I’m always eager to learn new technologies, solve real-world problems, and improve the way software is built and deployed. 
 </p>
 
 ### Currently Working On
@@ -83,4 +83,3 @@
   </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratneshvansh13&" alt="ratneshvansh13" /></p>
-
