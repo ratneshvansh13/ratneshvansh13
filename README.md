@@ -2,7 +2,7 @@
 
 # Hey Everyone 👋, I'm Ratnesh Vansh Saxena
 
-### DevOps & Cloud Engineer · Freelancer  
+### DevOps & Cloud Engineer · Freelancer
 
 <a href="https://github.com/ratneshvansh13">
   <img src="https://img.shields.io/github/followers/ratneshvansh13?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <p>
   <img src="https://img.shields.io/badge/Name-Ratnesh Vansh Saxena-1f6feb?style=for-the-badge" alt="Name: Ratnesh" />
@@ -74,7 +74,13 @@
 </p>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/ratneshvansh13" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ratneshvansh13&show_icons=true&locale=en" alt="ratneshvansh13" /></p>
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/ratneshvansh13" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a href="https://porfolio-seven-plum.vercel.app">
+    <img
+      src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-porfolio--seven--plum.vercel.app-blue?style=for-the-badge"alt="Visit My Portfolio"
+    />
+  </a>
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratneshvansh13&" alt="ratneshvansh13" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ratneshvansh13&show_icons=true&locale=en&layout=compact" alt="ratneshvansh13" /></p>
+
