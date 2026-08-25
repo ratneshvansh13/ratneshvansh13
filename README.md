@@ -1,4 +1,18 @@
-<h1>Hi 👋, I'm Ratnesh Vansh</h1>
+<div align="center">
+
+# Hey Everyone 👋, I'm Ratnesh Vansh Saxena
+
+### DevOps & Cloud Engineer · Freelancer  
+
+<a href="https://github.com/ratneshvansh13">
+  <img src="https://img.shields.io/github/followers/ratneshvansh13?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://linkedin.com/in/ratneshvansh13">
+  <img src="https://img.shields.io/badge/LinkedIn-ratneshvansh13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/vansh_saxena03">
+  <img src="https://img.shields.io/badge/Instagram-vansh_saxena03-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 <p>Hi, I’m Ratnesh Vansh Saxena, a passionate learner interested in DevOps, cloud, and automation. I enjoy working with Linux, AWS, Kubernetes, Docker, Git, and CI/CD tools to build reliable and scalable systems. I’m always eager to learn new technologies, solve real-world problems, and improve the way software is built and deployed. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
