@@ -75,7 +75,7 @@
 
 <h2>⚡️ Where to find me</h2>
 <p align="center">
-<a target="_blank" href="https://www..linkedin.com/in/ratneshvansh13" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/ratneshvansh13" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a href="https://portfolio-seven-plum.vercel.app/">
     <img
       src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-porfolio--seven--plum.vercel.app-blue?style=for-the-badge"alt="Visit My Portfolio"
